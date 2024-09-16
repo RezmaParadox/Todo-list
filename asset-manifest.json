@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RezmaParadox/Todo-list/static/css/main.dc23e534.css",
-    "main.js": "/RezmaParadox/Todo-list/static/js/main.73567565.js",
-    "index.html": "/RezmaParadox/Todo-list/index.html",
-    "static/media/delete.svg": "/RezmaParadox/Todo-list/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
-    "static/media/check.svg": "/RezmaParadox/Todo-list/static/media/check.38f596e64d38d54463f988385b633c05.svg",
-    "main.dc23e534.css.map": "/RezmaParadox/Todo-list/static/css/main.dc23e534.css.map",
-    "main.73567565.js.map": "/RezmaParadox/Todo-list/static/js/main.73567565.js.map"
+    "main.css": "/RezmaParadox.github.io/todo-list/static/css/main.dc23e534.css",
+    "main.js": "/RezmaParadox.github.io/todo-list/static/js/main.2a5fcda0.js",
+    "index.html": "/RezmaParadox.github.io/todo-list/index.html",
+    "static/media/delete.svg": "/RezmaParadox.github.io/todo-list/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
+    "static/media/check.svg": "/RezmaParadox.github.io/todo-list/static/media/check.38f596e64d38d54463f988385b633c05.svg",
+    "main.dc23e534.css.map": "/RezmaParadox.github.io/todo-list/static/css/main.dc23e534.css.map",
+    "main.2a5fcda0.js.map": "/RezmaParadox.github.io/todo-list/static/js/main.2a5fcda0.js.map"
   },
   "entrypoints": [
     "static/css/main.dc23e534.css",
-    "static/js/main.73567565.js"
+    "static/js/main.2a5fcda0.js"
   ]
 }
