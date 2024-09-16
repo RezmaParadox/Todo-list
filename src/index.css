@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  color: #1E1E1E;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+#root{
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
+
+.ModalBackground{
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
